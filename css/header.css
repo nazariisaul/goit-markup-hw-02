@@ -1,0 +1,19 @@
+.nav-list {
+  list-style-type: none;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.address-list {
+  list-style-type: none;
+}
+
+.address-link {
+  font-weight: 400;
+  color: #434455;
+  text-decoration: none;
+}
