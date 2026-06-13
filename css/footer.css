@@ -1,4 +1,4 @@
-#footer {
+.footer {
   background-color: #2e2f42;
 }
 
@@ -6,6 +6,8 @@
   font-weight: 400;
   font-size: 16px;
   color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .logo-footer {
@@ -14,7 +16,9 @@
   font-weight: 700;
   text-decoration: none;
   color: #f4f4fd;
-  letter-spacing: 3%;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .logo-web {

@@ -8,6 +8,16 @@
   text-decoration: none;
 }
 
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
+
 .address-list {
   list-style-type: none;
 }
@@ -15,6 +25,7 @@
 .address-link {
   font-weight: 400;
   color: #434455;
+  font-style: normal;
   text-decoration: none;
 }
 
@@ -23,8 +34,10 @@
   font-size: 18px;
   font-weight: 700;
   text-decoration: none;
-  color: #434455;
-  letter-spacing: 3%;
+  color: #2e2f42;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .logo-web {
